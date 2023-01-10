@@ -10,3 +10,4 @@ model/unet_torch/weights/checkpoint.pth
 model/unet_keras/h5_dataset/
 model/mrsg_torch/results - 20221117 - from scratch/
 model/multiple_keras/best_multiclass_model.h5
+model/mrsg_torch/results/events/

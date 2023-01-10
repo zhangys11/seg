@@ -1,12 +1,12 @@
 DATASET: "ALL" # DRIVE + STARE + CHASE
 
-TRAIN_DATA_PATH: "fundus/ALL/train_data"
-TRAIN_LABEL_PATH: "fundus/ALL/train_label"
+TRAIN_DATA_PATH: "../../data/fundus/ALL/train_data"
+TRAIN_LABEL_PATH: "../../data/fundus/ALL/train_label"
 
 
-TEST_DATA_PATH: "fundus/ALL/test_data"
+TEST_DATA_PATH: "../../data/fundus/ALL/test_data"
 TEST_PRED_PATH: "results/test/ALL/prediction"
-TEST_LABEL_PATH: "fundus/ALL/test_label"
+TEST_LABEL_PATH: "../../data/fundus/ALL/test_label"
 
 # view
 #VAL_PICTURE_PATH: "/gdata1/limx/mx/dataset/Drive19/visualization"
