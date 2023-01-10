@@ -1,0 +1,9 @@
+build/
+dist/
+*.egg-info/
+*.pyc
+**/.ipynb_checkpoints/
+**/*-checkpoint.ipynb
+model/unet_keras/h5_dataset/
+model/unet_keras/STARE_results/
+model/unet_keras/US AI test results commented.pdf
