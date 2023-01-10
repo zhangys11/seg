@@ -1,4 +1,17 @@
+# About
 This is a collection of image segmentation projects adjusted for fundus blood vessel segmentation.  
+
+## 1. unet_keras result:  
+<img src='.\model\unet_keras\final_results.jpg'>
+
+
+## 2. unet_torch result:  
+<img src='.\model\unet_torch\results\SEH\L-20190710105904098.png'>
+
+## 4. mrsg_torch result (sota):  
+<img src='.\model\mrsg_torch\results\test\SEH\prediction_.2\1_L-20190710105904098.jpg'>
+
+
 
 # Run
 
